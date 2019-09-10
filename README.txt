@@ -6,4 +6,4 @@ the tutorials were from Vue website which can be accessed through here
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance
 
-the main objective of this webpage is add procuts to a cart and to display data onto a webpage using Vue framework.
+the main objective of this webpage is add products to a cart and to display data onto a webpage using Vue framework.
